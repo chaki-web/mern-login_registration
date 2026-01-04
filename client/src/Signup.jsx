@@ -45,7 +45,7 @@ function Signup() {
           <button type="submit" className="btn btn-success w-100 rounded-0">
             Register
           </button>
-          <p>Already have an account?</p>
+          <p>Already have an accounts huh?</p>
           <button className="btn btn-default border w-100 bg-light rounded-0 text-decoration-none">
             Login
           </button>
